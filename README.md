@@ -3,14 +3,14 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I'm currently learning about computer networks!
-<br>
+
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,go,html,css,js,ts,react,next,python,fastapi,flask,c,cpp,mysql,supabase,docker,figma,ai" />
-<br>
+
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yu-jimk&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yu-jimk&theme=vue-dark&layout=compact&show_icons=true&count_private=true" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-jimk&theme=vue-dark&layout=compact" />
 </div>
