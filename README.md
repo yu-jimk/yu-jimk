@@ -6,7 +6,7 @@
 
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,go,html,css,js,ts,react,next,python,fastapi,flask,c,cpp,mysql,supabase,docker,figma,ai" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ruby,rails,go,html,css,tailwindcss,js,ts,react,next,python,fastapi,flask,c,cpp,mysql,supabase,docker,raspberrypi,figma,ai" />
 
 
 ## 🏃‍♀️ Activities
