@@ -25,7 +25,7 @@
 ### ☁️ **Infrastructure**
 <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=docker,raspberrypi,render,vercel&titles=true" />
 
-### 🎨 **Frontend & Design**
+### 🎨 **Frontend**
 <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=react,next,vite,tailwindcss&titles=true" />
 
 ### 🛠 **Tools & Others**
