@@ -11,10 +11,10 @@
     <td width="50%" align="center" valign="top">
       
 ### 💻 **Languages**
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=js,ts,go,c,cpp,python,ruby&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=js,ts,c,cpp,python&titles=true" />
 
 ### ⚙️ **Backend & API**
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=nestjs,rails,fastapi,graphql,websocket&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=nestjs,fastapi,graphql&titles=true" />
 
 ### 🗄️ **Databases & ORM**
 <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=postgres,mysql,supabase,prisma&titles=true" />
@@ -23,13 +23,13 @@
   <td width="50%" align="center" valign="top">
       
 ### ☁️ **Infrastructure**
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=docker,raspberrypi,render,vercel&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=docker,raspberrypi&titles=true" />
 
 ### 🎨 **Frontend**
 <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=react,next,vite,tailwindcss&titles=true" />
 
 ### 🛠 **Tools & Others**
-<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=git,pnpm,wezterm,wireshark,figma,ai&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=git,pnpm,wireshark,figma,ai&titles=true" />
 
   </td>
   </tr>
